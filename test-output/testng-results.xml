@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-05T19:44:39 CEST" name="Default suite" finished-at="2025-07-05T19:44:43 CEST" duration-ms="3640">
+    <groups>
+    </groups>
+    <test started-at="2025-07-05T19:44:39 CEST" name="Default test" finished-at="2025-07-05T19:44:43 CEST" duration-ms="3640">
+      <class name="firstProject.myTestCases">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:firstProject.myTestCases@71cf1b07]" started-at="2025-07-05T19:44:39 CEST" name="mySetup" finished-at="2025-07-05T19:44:40 CEST" duration-ms="885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="login()[pri:1, instance:firstProject.myTestCases@71cf1b07]" started-at="2025-07-05T19:44:40 CEST" name="login" finished-at="2025-07-05T19:44:41 CEST" duration-ms="680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="addToCart()[pri:2, instance:firstProject.myTestCases@71cf1b07]" started-at="2025-07-05T19:44:41 CEST" name="addToCart" finished-at="2025-07-05T19:44:41 CEST" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method signature="logout()[pri:3, instance:firstProject.myTestCases@71cf1b07]" started-at="2025-07-05T19:44:41 CEST" name="logout" finished-at="2025-07-05T19:44:42 CEST" duration-ms="1211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="AfterThetestIsDone()[pri:0, instance:firstProject.myTestCases@71cf1b07]" started-at="2025-07-05T19:44:42 CEST" name="AfterThetestIsDone" finished-at="2025-07-05T19:44:43 CEST" duration-ms="428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterThetestIsDone -->
+      </class> <!-- firstProject.myTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
